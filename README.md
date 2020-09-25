@@ -2,7 +2,7 @@
 This is a simple PHP based Task Manager application which helps you to keep a track
 of tasks on a daily basis. You can add/update/delete Tasks as well as you can categorize
 the tasks by lists. Also you can add/update/delete lists.
-phpMyAdmin is used as database to store the lists and tasks.
+PhpMyAdmin is used as database to store the lists and tasks.
 
 ## Following is an example of the working of the Manager:-
 
