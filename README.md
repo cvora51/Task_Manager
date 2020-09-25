@@ -31,7 +31,7 @@ the tasks by lists. Also you can add/update/delete lists.
 
 6] On this page you can add new lists.
 
-![Add List](./screenshots/add-lists-page.png)
+![Add List](./screenshots/add-list-page.png)
 
 7]This page is a list(category) and displays task under it.
 
